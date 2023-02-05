@@ -1,6 +1,6 @@
 import Axios from "axios";
 
-const ordersUrl = `http://localhost:3000/orders`;
+const ordersUrl = `https://groco-be.onrender.com/orders`;
 
 export default {
   namespaced: true,

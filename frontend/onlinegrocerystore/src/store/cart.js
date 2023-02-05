@@ -1,5 +1,5 @@
 import Axios from "axios";
-const cartUrl = `http://localhost:3000/cart`;
+const cartUrl = `https://groco-be.onrender.com/cart`;
 export default {
   namespaced: true,
   state: {

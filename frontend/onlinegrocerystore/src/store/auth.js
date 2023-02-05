@@ -1,6 +1,6 @@
 import Axios from "axios";
 
-const authUrl = `http://localhost:3000/auth/`;
+const authUrl = `https://groco-be.onrender.com/auth/`;
 
 export default {
   namespaced: true,

@@ -5,7 +5,7 @@ import OrderModule from "./orders";
 import AuthModule from "./auth";
 //axios is used to make http request to differend server
 
-const baseUrl = "http://localhost:3000";
+const baseUrl = "https://groco-be.onrender.com";
 const pageUrl = `${baseUrl}/pages`;
 const categoriesUrl = `${baseUrl}/categories`;
 const productUrl = `${baseUrl}/products`;
